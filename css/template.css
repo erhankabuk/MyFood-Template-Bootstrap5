@@ -1,0 +1,14 @@
+ul.list-hover > li:hover {
+  background-color: var(--bs-gray-200);
+}
+ul.offcanvas-menu > li > a {
+  display: block;
+  text-decoration: none;
+  color: var(--bs-dark);
+  padding: 1.25rem;
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+ul.offcanvas-menu > li > a:hover {
+  background-color:var(--bs-gray-400);
+}
